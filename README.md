@@ -15,7 +15,8 @@ Add a space at the begining of the Description to omit the script from git_downl
 ## Python Scripts
 | Script name   | Description   |
 | ------------- |:-------------:|
-|[GitHub Script Downloader](git_download)|Downloads python scripts located on this page directly to your switch.|
+|[Device Stats --> Power BI](git_download)|COMING SOON|
+|[Network Mapping & Generation in GNS3](git_download)|COMING SOON|
 
 ## Extreme .lst File - 
 This .lst file includes all of the switch .py scripts at the time of the file upload.  It can be downloaded directly to the switch with the ```download url <url> <vr>``` command.  The .lst will create a folder called gtac and add all the scripts into that folder.  Note: To run the scripts you need to cd into the gtac folder.
